@@ -1,0 +1,14 @@
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.AssemblyInfoInputs.cache
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.AssemblyInfo.cs
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.csproj.CoreCompileInputs.cache
+D:\Project\dz08.11\dz08.11\bin\Debug\net6.0\dz08.11.exe
+D:\Project\dz08.11\dz08.11\bin\Debug\net6.0\dz08.11.deps.json
+D:\Project\dz08.11\dz08.11\bin\Debug\net6.0\dz08.11.runtimeconfig.json
+D:\Project\dz08.11\dz08.11\bin\Debug\net6.0\dz08.11.dll
+D:\Project\dz08.11\dz08.11\bin\Debug\net6.0\dz08.11.pdb
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.dll
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\refint\dz08.11.dll
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.pdb
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\dz08.11.genruntimeconfig.cache
+D:\Project\dz08.11\dz08.11\obj\Debug\net6.0\ref\dz08.11.dll

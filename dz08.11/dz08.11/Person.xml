@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person name="Tom">
+    <company>Microsoft</company>
+    <age>37</age>
+  </person>
+  <person name="Bob">
+    <company>Google</company>
+    <age>41</age>
+  </person>
+  <person name="Mark">
+    <company>Facebook</company>
+    <age>30</age>
+  </person>
+  <person name="Govno">
+    <company>Online</company>
+    <age>15</age>
+  </person>
+  <person name="Ya xml document">
+    <company>Really</company>
+    <age>10</age>
+  </person>
+</people>
